@@ -20,11 +20,11 @@
 - 🎯 **[Zentio](https://github.com/x34-dzt/zentio)** - AI interview prep with a built-in IDE; paste a job posting, get calibrated coding challenges
 - 🖥️ **[xwlm](https://github.com/x34-dzt/xwlm)** - Rust TUI for managing Wayland monitors across Hyprland, Sway, and River
 - 📦 **[wlx_monitors](https://github.com/x34-dzt/wlx_monitors)** - Rust crate for detecting and controlling Wayland displays via wlr-output-management
-- 🎓 **[ClassX2](https://github.com/x34-dzt/ClassX2)** - Social + classroom app I built for uni; actual students used it
+- 🎓 **[ClassX](https://github.com/x34-dzt/ClassX2)** - Social + classroom app I built for uni; actual students used it
 - 🌅 **[lazywall](https://github.com/x34-dzt/lazywall)** - Effortless wallpaper switcher for the hyprland
 - 📌 **[YTX](https://github.com/x34-dzt/YTX)** - YouTube bookmark extension save, organize, return to exactly where it matters
-- 🎨 **[My Drawing App](https://github.com/x34-dzt/My-Drawing-App)** - Canvas-based drawing app; browser-native, no dependencies
-- ❄️ **[dotfiles](https://github.com/x34-dzt/dotfiles)** - NixOS config rice (37 ⭐)
+- 🎨 **[Drawing app](https://github.com/x34-dzt/My-Drawing-App)** - Canvas-based drawing app; browser-native, no dependencies
+- ❄️ **[Nixos/dotfiles](https://github.com/x34-dzt/dotfiles)** - NixOS config rice (37 ⭐)
 
 ## About Me
 
