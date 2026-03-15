@@ -32,6 +32,7 @@
 - Asian
 - Graduated
 - Building projects, learning stuff and sharing my progress here, trying to do oss contributions 
+- 2 Years of industry experience
 
 ## Connect
 
